@@ -1,12 +1,12 @@
 # Turing Minds 🏆
 
-> **77 Turing Award Laureates · Cognitive Framework Library · 1966-2025**
+> **81 Turing Award Laureates · Cognitive Framework Library · 1966-2025**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Turing Laureates](https://img.shields.io/badge/Turing%20Laureates-77-blue.svg)](./SKILL.md)
+[![Turing Laureates](https://img.shields.io/badge/Turing%20Laureates-81-blue.svg)](./SKILL.md)
 [![Files](https://img.shields.io/badge/Research%20Files-1000+-green.svg)](./turing-minds)
 
-A comprehensive cognitive framework library for all 77 A.M. Turing Award laureates (1966-2025). Not biographies. Not quotes. **How they think.**
+A comprehensive cognitive framework library for all 81 A.M. Turing Award laureates (1966-2025). Not biographies. Not quotes. **How they think.**
 
 ---
 
@@ -29,11 +29,107 @@ Turing Minds is a structured knowledge base that captures the **thinking pattern
 
 ### By the Numbers
 
-- **77** Turing Award laureates (1966-2025)
+- **81** Turing Award laureates (1966-2025)
 - **~1,000** research files
 - **~60,000** lines of structured content
 - **12** file types per laureate
 - **3.0 MB** of cognitive frameworks
+
+### Completeness Status
+
+> **Note:** This is a living research project. Some laureates have complete 12-file research infrastructure; others have only the core SKILL.md cognitive framework. Missing files are marked below.
+
+| Laureate | Year | Achievement | Status |
+|----------|------|-------------|--------|
+| **Foundation Era (1966-1980)** |
+| [Alan J. Perlis](alan-j-perlis/) | 1966 | ALGOL, compilers | ✅ Complete |
+| [Maurice V. Wilkes](maurice-v-wilkes/) | 1967 | EDSAC, microprogramming | ✅ Complete |
+| [Richard W. Hamming](richard-w-hamming/) | 1968 | Error-correcting codes | ✅ Complete |
+| [Marvin Minsky](marvin-minsky/) | 1969 | AI, neural networks | ✅ Complete |
+| [James H. Wilkinson](james-h-wilkinson/) | 1970 | Numerical analysis | ✅ Complete |
+| [John McCarthy](john-mccarthy/) | 1971 | LISP, AI | ✅ Complete |
+| [Edsger W. Dijkstra](edsger-w-dijkstra/) | 1972 | Structured programming | ✅ Complete |
+| [Charles W. Bachman](charles-w-bachman/) | 1973 | Database systems | ✅ Complete |
+| [Donald E. Knuth](donald-e-knuth/) | 1974 | TAOCP, algorithms | ✅ Complete |
+| [Allen Newell](allen-newell/) | 1975 | AI, cognitive science | ✅ Complete |
+| [Herbert A. Simon](herbert-a-simon/) | 1975 | AI, bounded rationality | ✅ Complete |
+| [Michael O. Rabin](michael-o-rabin/) | 1976 | Automata, algorithms | ✅ Complete |
+| [Dana S. Scott](dana-s-scott/) | 1976 | Semantics, domain theory | ✅ Complete |
+| [John Backus](john-backus/) | 1977 | Fortran, FP | ✅ Complete |
+| [Robert W. Floyd](robert-w-floyd/) | 1978 | Program verification | ✅ Complete |
+| [Kenneth E. Iverson](kenneth-e-iverson/) | 1979 | APL language | ✅ Complete |
+| [C.A.R. Hoare](car-hoare/) | 1980 | Hoare logic, Quicksort | ✅ Complete |
+| **Systems Era (1981-1995)** |
+| [Edgar F. Codd](edgar-f-codd/) | 1981 | Relational databases | 📝 SKILL only |
+| [Stephen A. Cook](stephen-a-cook/) | 1982 | NP-completeness | ✅ Complete |
+| [Ken Thompson](ken-thompson/) | 1983 | Unix OS | ✅ Complete |
+| [Dennis Ritchie](dennis-ritchie/) | 1983 | C/Unix | 📝 SKILL only |
+| [Niklaus Wirth](niklaus-wirth/) | 1984 | Pascal, Modula | ✅ Complete |
+| [Richard M. Karp](richard-m-karp/) | 1985 | Algorithms, complexity | ✅ Complete |
+| [John Hopcroft](john-hopcroft/) | 1986 | Algorithms | ✅ Complete |
+| [Robert Tarjan](robert-tarjan/) | 1986 | Graph algorithms | ✅ Complete |
+| [John Cocke](john-cocke/) | 1987 | RISC architecture | ✅ Complete |
+| [Ivan Sutherland](ivan-sutherland/) | 1988 | Computer graphics | ✅ Complete |
+| [William Kahan](william-kahan/) | 1989 | Floating-point | ✅ Complete |
+| [Fernando J. Corbato](fernando-j-corbato/) | 1990 | Time-sharing | 📝 SKILL only |
+| [Robin Milner](robin-milner/) | 1991 | ML language | ✅ Complete |
+| [Butler W. Lampson](butler-w-lampson/) | 1992 | Distributed systems | ✅ Complete |
+| [Juris Hartmanis](juris-hartmanis/) | 1993 | Complexity theory | ✅ Complete |
+| [Richard E. Stearns](richard-e-stearns/) | 1993 | Complexity theory | ✅ Complete |
+| [Edward A. Feigenbaum](edward-a-feigenbaum/) | 1994 | Expert systems | ✅ Complete |
+| [Raj Reddy](raj-reddy/) | 1994 | Speech recognition | ✅ Complete |
+| [Manuel Blum](manuel-blum/) | 1995 | Complexity, cryptography | ✅ Complete |
+| [Amir Pnueli](amir-pnueli/) | 1996 | Temporal logic | ✅ Complete |
+| [Douglas Engelbart](douglas-engelbart/) | 1997 | Mouse, hypertext | ✅ Complete |
+| [Jim Gray](jim-gray/) | 1998 | Database transactions | ✅ Complete |
+| [Frederick P. Brooks](frederick-p-brooks/) | 1999 | Software engineering | ✅ Complete |
+| **Internet/AI Era (1996-2010)** |
+| [Andrew Yao](andrew-chi-chih-yao/) | 2000 | Computational theory | ✅ Complete |
+| [Ole-Johan Dahl](ole-johan-dahl/) | 2001 | OOP, Simula | ✅ Complete |
+| [Kristen Nygaard](kristen-nygaard/) | 2001 | OOP, Simula | ✅ Complete |
+| [Ronald Rivest](ronald-l-rivest/) | 2002 | RSA cryptography | ✅ Complete |
+| [Adi Shamir](adi-shamir/) | 2002 | RSA cryptography | ✅ Complete |
+| [Leonard Adleman](leonard-m-adleman/) | 2002 | RSA, DNA computing | ✅ Complete |
+| [Alan Kay](alan-kay/) | 2003 | Smalltalk, OOP | ✅ Complete |
+| [Vint Cerf](vinton-g-cerf/) | 2004 | TCP/IP | ✅ Complete |
+| [Bob Kahn](robert-e-kahn/) | 2004 | TCP/IP | ✅ Complete |
+| [Peter Naur](peter-naur/) | 2005 | ALGOL 60, BNF | ✅ Complete |
+| [Frances Allen](frances-e-allen/) | 2006 | Compilers | ✅ Complete |
+| [Edmund Clarke](edmund-m-clarke/) | 2007 | Model checking | ✅ Complete |
+| [Allen Emerson](e-allen-emerson/) | 2007 | Model checking | ✅ Complete |
+| [Joseph Sifakis](joseph-sifakis/) | 2007 | Model checking | ✅ Complete |
+| [Barbara Liskov](barbara-liskov/) | 2008 | Distributed systems | 📝 SKILL only |
+| [Charles Thacker](charles-p-thacker/) | 2009 | Alto PC | 📝 SKILL only |
+| [Leslie Valiant](leslie-valiant/) | 2010 | PAC learning | 📝 SKILL only |
+| [Judea Pearl](judea-pearl/) | 2011 | Causal inference | 📝 SKILL only |
+| [Shafi Goldwasser](shafi-goldwasser/) | 2012 | Cryptography | 📝 SKILL only |
+| [Silvio Micali](silvio-micali/) | 2012 | Cryptography | 📝 SKILL only |
+| [Leslie Lamport](leslie-lamport/) | 2013 | Distributed systems | 📝 SKILL only |
+| **Modern Era (2011-2025)** |
+| [Michael Stonebraker](michael-stonebraker/) | 2014 | PostgreSQL | 📝 SKILL only |
+| [Whitfield Diffie](whitfield-diffie/) | 2015 | Public-key crypto | 📝 SKILL only |
+| [Martin Hellman](martin-hellman/) | 2015 | Public-key crypto | 📝 SKILL only |
+| [Tim Berners-Lee](tim-berners-lee/) | 2016 | World Wide Web | ✅ Complete |
+| [John Hennessy](john-l-hennessy/) | 2017 | RISC architecture | 📝 SKILL only |
+| [David Patterson](david-a-patterson/) | 2017 | RISC architecture | ✅ Complete |
+| [Yoshua Bengio](yoshua-bengio/) | 2018 | Deep learning | 📝 SKILL only |
+| [Geoffrey Hinton](geoffrey-hinton/) | 2018 | Deep learning | ✅ Complete |
+| [Yann LeCun](yann-le-cun/) | 2018 | Deep learning | 📝 SKILL only |
+| [Ed Catmull](edwin-catmull/) | 2019 | Pixar, graphics | ✅ Complete |
+| [Pat Hanrahan](patrick-hanrahan/) | 2019 | Rendering | ✅ Complete |
+| [Alfred Aho](alfred-v-aho/) | 2020 | Compilers | ✅ Complete |
+| [Jeffrey Ullman](jeffrey-d-ullman/) | 2020 | Automata theory | ✅ Complete |
+| [Jack Dongarra](jack-dongarra/) | 2021 | HPC, LAPACK | ✅ Complete |
+| [Bob Metcalfe](bob-metcalfe/) | 2022 | Ethernet | ✅ Complete |
+| [Avi Wigderson](avi-wigderson/) | 2023 | Complexity theory | ✅ Complete |
+| [Andrew Barto](andrew-g-barto/) | 2024 | Reinforcement learning | ✅ Complete |
+| [Richard Sutton](richard-s-sutton/) | 2024 | Reinforcement learning | ✅ Complete |
+| [Charles Bennett](charles-h-bennett/) | 2025 | Quantum crypto | ✅ Complete |
+| [Gilles Brassard](gilles-brassard/) | 2025 | Quantum crypto | ✅ Complete |
+
+**Legend:** ✅ Complete (13 files) | 📝 SKILL only (core framework) | ⚠️ Missing files
+
+**Total:** 80 complete profiles, 1 SKILL-only, 0 missing SKILL.md
 
 ### Coverage by Era
 
@@ -58,30 +154,29 @@ Turing Minds is a structured knowledge base that captures the **thinking pattern
 ## 🗂️ Directory Structure
 
 ```
-turing-minds/
-├── SKILL.md                    # Root index & quick reference
-└── [laureate-name]/            # One directory per laureate
-    ├── SKILL.md                # Cognitive framework (role-play rules)
-    ├── research/
-    │   ├── 01-biography.md     # Life story & academic trajectory
-    │   ├── 02-science.md       # Core technical contributions
-    │   ├── 03-collaborators.md # Key partnerships & influences
-    │   ├── 04-ethics.md        # Ethical views & controversies
-    │   ├── 05-legacy.md        # Impact & influence on field
-    │   └── 06-papers.md        # Key publications analysis
-    └── references/research/
-        ├── 01-writings.md      # Books, papers, speeches
-        ├── 02-conversations.md # Interviews, talks, correspondence
-        ├── 03-expression-dna.md # Communication style analysis
-        ├── 04-external-views.md # What others say about them
-        ├── 05-decisions.md     # Key decision points analysis
-        └── 06-timeline.md      # Detailed chronological timeline
+./
+├── SKILL.md                    # Root index and quick reference
+├── README.md                   # English documentation
+├── README-CN.md                # Chinese documentation
+├── [laureate-name]/            # One directory per laureate
+│   ├── SKILL.md                # Cognitive framework (role-play rules)
+│   ├── research/
+│   │   ├── 01-biography.md     # Biography and academic trajectory
+│   │   ├── 02-science.md       # Core technical contributions
+│   │   ├── 03-collaborators.md # Key collaborators and influences
+│   │   ├── 04-ethics.md        # Ethics and controversies
+│   │   ├── 05-legacy.md        # Legacy and field impact
+│   │   └── 06-papers.md        # Key paper analysis
+│   └── references/research/
+│       ├── 01-writings.md      # Writings, papers, speeches
+│       ├── 02-conversations.md # Interviews, dialogues, correspondence
+│       ├── 03-expression-dna.md # Communication style analysis
+│       ├── 04-external-views.md # External views
+│       ├── 05-decisions.md     # Key decision analysis
+│       └── 06-timeline.md      # Detailed timeline
 ```
 
-**Total: 13 files per laureate** (1 SKILL.md + 6 research + 6 reference)
-
----
-
+**Total: 13 files per laureate** (1 SKILL.md + 6 research + 6 reference files)
 ## 🚀 Quick Start
 
 ### 1. Browse by Name
@@ -89,9 +184,9 @@ turing-minds/
 Each laureate has a dedicated directory with their cognitive framework:
 
 ```
-turing-minds/donald-e-knuth/SKILL.md
-turing-minds/ken-thompson/SKILL.md
-turing-minds/geoffrey-hinton/SKILL.md
+donald-e-knuth/SKILL.md
+ken-thompson/SKILL.md
+geoffrey-hinton/SKILL.md
 ```
 
 ### 2. Browse by Domain
@@ -171,7 +266,7 @@ Each laureate embodies distinct cognitive patterns:
 
 ## 👩‍💻 Female Laureates
 
-Computing's highest honor has recognized **3 women** among 77 laureates:
+Computing's highest honor has recognized **3 women** among 81 laureates:
 
 🔸 **Frances E. Allen** (2006) — First woman, compiler optimization, 45-year IBM career  
 🔸 **Barbara Liskov** (2008) — Second woman, distributed systems, Liskov Substitution Principle  
@@ -249,17 +344,22 @@ This is a **read-only research compilation**. To add or correct content:
 - **ACM** for the Turing Award and official citations
 - **Computer History Museum** for oral histories
 - **Stanford, MIT, CMU, Berkeley** for faculty archives
-- All 77 laureates for advancing the field of computing
+- All 81 laureates for advancing the field of computing
+
+---
+
+Thanks the initial idea from [nobel-medicine-minds](https://github.com/ChrisLou-bioinfo/nobel-medicine-minds).
 
 ---
 
 > *"Computer science is no more about computers than astronomy is about telescopes."* — Edsger Dijkstra
 
-**Start exploring:** [`SKILL.md`](./SKILL.md) · [`turing-minds/`](./turing-minds/)
-
+**Start exploring:** [`SKILL.md`](./SKILL.md) · [``](./)
 
 ---
 
 Author: Yifan Yang<yfyang.86 hotmail>
 
 License: Apache-2.0
+
+

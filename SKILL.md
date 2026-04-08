@@ -36,7 +36,7 @@ description: |
 - 领域匹配（"Unix之父"→ Thompson）
 
 **执行**：
-1. 在索引中定位得主目录（`turing-minds/[name]/SKILL.md`）
+1. 在索引中定位得主目录（`[name]/SKILL.md`）
 2. 读取SKILL.md
 3. 按SKILL.md中的规则激活该思维框架
 4. 用该框架回应用户的原始问题
@@ -86,87 +86,87 @@ description: |
 
 | 年份 | 得主 | 成就 | 目录slug |
 |------|------|------|----------|
-| 2025 | Charles H. Bennett | 量子密码学 | `turing-minds/charles-h-bennett` |
-| 2025 | Gilles Brassard | 量子密码学 | `turing-minds/gilles-brassard` |
-| 2024 | Andrew G. Barto | 强化学习 | `turing-minds/andrew-g-barto` |
-| 2024 | Richard S. Sutton | 强化学习 | `turing-minds/richard-s-sutton` |
-| 2023 | Avi Wigderson | 计算理论/随机性 | `turing-minds/avi-wigderson` |
-| 2022 | Bob Metcalfe | 以太网 | `turing-minds/bob-metcalfe` |
-| 2021 | Jack Dongarra | 数值算法/HPC | `turing-minds/jack-dongarra` |
-| 2020 | Alfred V. Aho | 编程语言理论 | `turing-minds/alfred-v-aho` |
-| 2020 | Jeffrey D. Ullman | 编译原理/自动机 | `turing-minds/jeffrey-d-ullman` |
-| 2019 | Edwin E. Catmull | 3D计算机图形 | `turing-minds/edwin-catmull` |
-| 2019 | Patrick M. Hanrahan | 渲染技术 | `turing-minds/patrick-hanrahan` |
-| 2018 | Yoshua Bengio | 深度学习 | `turing-minds/yoshua-bengio` |
-| 2018 | Geoffrey Hinton | 深度学习 | `turing-minds/geoffrey-hinton` |
-| 2018 | Yann LeCun | 深度学习 | `turing-minds/yann-le-cun` |
-| 2017 | John L. Hennessy | 计算机架构 | `turing-minds/john-l-hennessy` |
-| 2017 | David A. Patterson | 计算机架构 | `turing-minds/david-a-patterson` |
-| 2016 | Tim Berners-Lee | 万维网 | `turing-minds/tim-berners-lee` |
-| 2015 | Whitfield Diffie | 公钥密码学 | `turing-minds/whitfield-diffie` |
-| 2015 | Martin Hellman | 公钥密码学 | `turing-minds/martin-hellman` |
-| 2014 | Michael Stonebraker | 现代数据库系统 | `turing-minds/michael-stonebraker` |
-| 2013 | Leslie Lamport | 分布式系统 | `turing-minds/leslie-lamport` |
-| 2012 | Shafi Goldwasser | 密码学/计算复杂性 | `turing-minds/shafi-goldwasser` |
-| 2012 | Silvio Micali | 密码学 | `turing-minds/silvio-micali` |
-| 2011 | Judea Pearl | 因果推理 | `turing-minds/judea-pearl` |
-| 2010 | Leslie Valiant | 机器学习/并行计算 | `turing-minds/leslie-valiant` |
-| 2009 | Charles P. Thacker | Alto个人电脑 | `turing-minds/charles-p-thacker` |
-| 2008 | Barbara Liskov | 编程方法学/分布式 | `turing-minds/barbara-liskov` |
-| 2007 | Edmund M. Clarke | 模型检验 | `turing-minds/edmund-m-clarke` |
-| 2007 | E. Allen Emerson | 模型检验 | `turing-minds/e-allen-emerson` |
-| 2007 | Joseph Sifakis | 模型检验 | `turing-minds/joseph-sifakis` |
-| 2006 | Frances E. Allen | 编译器优化 | `turing-minds/frances-e-allen` |
-| 2005 | Peter Naur | Algol 60/BNF | `turing-minds/peter-naur` |
-| 2004 | Vinton G. Cerf | TCP/IP | `turing-minds/vinton-g-cerf` |
-| 2004 | Robert E. Kahn | 互联网基础 | `turing-minds/robert-e-kahn` |
-| 2003 | Alan Kay | 面向对象/Smalltalk | `turing-minds/alan-kay` |
-| 2002 | Ronald L. Rivest | RSA加密 | `turing-minds/ronald-l-rivest` |
-| 2002 | Adi Shamir | RSA加密 | `turing-minds/adi-shamir` |
-| 2002 | Leonard M. Adleman | RSA加密 | `turing-minds/leonard-m-adleman` |
-| 2001 | Ole-Johan Dahl | 面向对象 | `turing-minds/ole-johan-dahl` |
-| 2001 | Kristen Nygaard | Simula/OO | `turing-minds/kristen-nygaard` |
-| 2000 | Andrew Chi-Chih Yao | 计算理论 | `turing-minds/andrew-chi-chih-yao` |
-| 1999 | Frederick P. Brooks | 软件工程 | `turing-minds/frederick-p-brooks` |
-| 1998 | Jim Gray | 数据库/事务处理 | `turing-minds/jim-gray` |
-| 1997 | Douglas Engelbart | 交互计算 | `turing-minds/douglas-engelbart` |
-| 1996 | Amir Pnueli | 时序逻辑 | `turing-minds/amir-pnueli` |
-| 1995 | Manuel Blum | 计算复杂性 | `turing-minds/manuel-blum` |
-| 1994 | Edward A. Feigenbaum | 专家系统 | `turing-minds/edward-a-feigenbaum` |
-| 1994 | Raj Reddy | 大规模AI系统 | `turing-minds/raj-reddy` |
-| 1993 | Juris Hartmanis | 计算复杂性 | `turing-minds/juris-hartmanis` |
-| 1993 | Richard E. Stearns | 计算复杂性 | `turing-minds/richard-e-stearns` |
-| 1992 | Butler W. Lampson | 分布式/个人计算 | `turing-minds/butler-w-lampson` |
-| 1991 | Robin Milner | ML/LCF/PI演算 | `turing-minds/robin-milner` |
-| 1990 | Fernando J. Corbato | 分时系统 | `turing-minds/fernando-j-corbato` |
-| 1989 | William Kahan | 数值分析 | `turing-minds/william-kahan` |
-| 1988 | Ivan Sutherland | 计算机图形学 | `turing-minds/ivan-sutherland` |
-| 1987 | John Cocke | RISC架构 | `turing-minds/john-cocke` |
-| 1986 | John Hopcroft | 算法/数据结构 | `turing-minds/john-hopcroft` |
-| 1986 | Robert Tarjan | 图算法 | `turing-minds/robert-tarjan` |
-| 1985 | Richard M. Karp | 算法/复杂性 | `turing-minds/richard-m-karp` |
-| 1984 | Niklaus Wirth | Pascal/Modula/Oberon | `turing-minds/niklaus-wirth` |
-| 1983 | Ken Thompson | Unix/C | `turing-minds/ken-thompson` |
-| 1983 | Dennis Ritchie | C语言/Unix | `turing-minds/dennis-ritchie` |
-| 1982 | Stephen A. Cook | NP完全理论 | `turing-minds/stephen-a-cook` |
-| 1981 | Edgar F. Codd | 关系数据库 | `turing-minds/edgar-f-codd` |
-| 1980 | C.A.R. Hoare | Hoare逻辑/快速排序 | `turing-minds/car-hoare` |
-| 1979 | Kenneth E. Iverson | APL语言 | `turing-minds/kenneth-e-iverson` |
-| 1978 | Robert W. Floyd | 程序验证/算法 | `turing-minds/robert-w-floyd` |
-| 1977 | John Backus | Fortran/FP语言 | `turing-minds/john-backus` |
-| 1976 | Michael O. Rabin | 自动机/算法 | `turing-minds/michael-o-rabin` |
-| 1976 | Dana S. Scott | 语义学 | `turing-minds/dana-s-scott` |
-| 1975 | Allen Newell | AI/认知科学 | `turing-minds/allen-newell` |
-| 1975 | Herbert A. Simon | 人工智能 | `turing-minds/herbert-a-simon` |
-| 1974 | Donald E. Knuth | 算法/TAOCP | `turing-minds/donald-e-knuth` |
-| 1973 | Charles W. Bachman | 数据库/IDS | `turing-minds/charles-w-bachman` |
-| 1972 | Edsger W. Dijkstra | 结构化程序设计 | `turing-minds/edsger-w-dijkstra` |
-| 1971 | John McCarthy | LISP/AI | `turing-minds/john-mccarthy` |
-| 1970 | James H. Wilkinson | 数值分析 | `turing-minds/james-h-wilkinson` |
-| 1969 | Marvin Minsky | 人工智能 | `turing-minds/marvin-minsky` |
-| 1968 | Richard W. Hamming | 纠错码 | `turing-minds/richard-w-hamming` |
-| 1967 | Maurice V. Wilkes | EDSAC/微程序 | `turing-minds/maurice-v-wilkes` |
-| 1966 | Alan J. Perlis | 编译器/ALGOL | `turing-minds/alan-j-perlis` |
+| 2025 | Charles H. Bennett | 量子密码学 | `charles-h-bennett` |
+| 2025 | Gilles Brassard | 量子密码学 | `gilles-brassard` |
+| 2024 | Andrew G. Barto | 强化学习 | `andrew-g-barto` |
+| 2024 | Richard S. Sutton | 强化学习 | `richard-s-sutton` |
+| 2023 | Avi Wigderson | 计算理论/随机性 | `avi-wigderson` |
+| 2022 | Bob Metcalfe | 以太网 | `bob-metcalfe` |
+| 2021 | Jack Dongarra | 数值算法/HPC | `jack-dongarra` |
+| 2020 | Alfred V. Aho | 编程语言理论 | `alfred-v-aho` |
+| 2020 | Jeffrey D. Ullman | 编译原理/自动机 | `jeffrey-d-ullman` |
+| 2019 | Edwin E. Catmull | 3D计算机图形 | `edwin-catmull` |
+| 2019 | Patrick M. Hanrahan | 渲染技术 | `patrick-hanrahan` |
+| 2018 | Yoshua Bengio | 深度学习 | `yoshua-bengio` |
+| 2018 | Geoffrey Hinton | 深度学习 | `geoffrey-hinton` |
+| 2018 | Yann LeCun | 深度学习 | `yann-le-cun` |
+| 2017 | John L. Hennessy | 计算机架构 | `john-l-hennessy` |
+| 2017 | David A. Patterson | 计算机架构 | `david-a-patterson` |
+| 2016 | Tim Berners-Lee | 万维网 | `tim-berners-lee` |
+| 2015 | Whitfield Diffie | 公钥密码学 | `whitfield-diffie` |
+| 2015 | Martin Hellman | 公钥密码学 | `martin-hellman` |
+| 2014 | Michael Stonebraker | 现代数据库系统 | `michael-stonebraker` |
+| 2013 | Leslie Lamport | 分布式系统 | `leslie-lamport` |
+| 2012 | Shafi Goldwasser | 密码学/计算复杂性 | `shafi-goldwasser` |
+| 2012 | Silvio Micali | 密码学 | `silvio-micali` |
+| 2011 | Judea Pearl | 因果推理 | `judea-pearl` |
+| 2010 | Leslie Valiant | 机器学习/并行计算 | `leslie-valiant` |
+| 2009 | Charles P. Thacker | Alto个人电脑 | `charles-p-thacker` |
+| 2008 | Barbara Liskov | 编程方法学/分布式 | `barbara-liskov` |
+| 2007 | Edmund M. Clarke | 模型检验 | `edmund-m-clarke` |
+| 2007 | E. Allen Emerson | 模型检验 | `e-allen-emerson` |
+| 2007 | Joseph Sifakis | 模型检验 | `joseph-sifakis` |
+| 2006 | Frances E. Allen | 编译器优化 | `frances-e-allen` |
+| 2005 | Peter Naur | Algol 60/BNF | `peter-naur` |
+| 2004 | Vinton G. Cerf | TCP/IP | `vinton-g-cerf` |
+| 2004 | Robert E. Kahn | 互联网基础 | `robert-e-kahn` |
+| 2003 | Alan Kay | 面向对象/Smalltalk | `alan-kay` |
+| 2002 | Ronald L. Rivest | RSA加密 | `ronald-l-rivest` |
+| 2002 | Adi Shamir | RSA加密 | `adi-shamir` |
+| 2002 | Leonard M. Adleman | RSA加密 | `leonard-m-adleman` |
+| 2001 | Ole-Johan Dahl | 面向对象 | `ole-johan-dahl` |
+| 2001 | Kristen Nygaard | Simula/OO | `kristen-nygaard` |
+| 2000 | Andrew Chi-Chih Yao | 计算理论 | `andrew-chi-chih-yao` |
+| 1999 | Frederick P. Brooks | 软件工程 | `frederick-p-brooks` |
+| 1998 | Jim Gray | 数据库/事务处理 | `jim-gray` |
+| 1997 | Douglas Engelbart | 交互计算 | `douglas-engelbart` |
+| 1996 | Amir Pnueli | 时序逻辑 | `amir-pnueli` |
+| 1995 | Manuel Blum | 计算复杂性 | `manuel-blum` |
+| 1994 | Edward A. Feigenbaum | 专家系统 | `edward-a-feigenbaum` |
+| 1994 | Raj Reddy | 大规模AI系统 | `raj-reddy` |
+| 1993 | Juris Hartmanis | 计算复杂性 | `juris-hartmanis` |
+| 1993 | Richard E. Stearns | 计算复杂性 | `richard-e-stearns` |
+| 1992 | Butler W. Lampson | 分布式/个人计算 | `butler-w-lampson` |
+| 1991 | Robin Milner | ML/LCF/PI演算 | `robin-milner` |
+| 1990 | Fernando J. Corbato | 分时系统 | `fernando-j-corbato` |
+| 1989 | William Kahan | 数值分析 | `william-kahan` |
+| 1988 | Ivan Sutherland | 计算机图形学 | `ivan-sutherland` |
+| 1987 | John Cocke | RISC架构 | `john-cocke` |
+| 1986 | John Hopcroft | 算法/数据结构 | `john-hopcroft` |
+| 1986 | Robert Tarjan | 图算法 | `robert-tarjan` |
+| 1985 | Richard M. Karp | 算法/复杂性 | `richard-m-karp` |
+| 1984 | Niklaus Wirth | Pascal/Modula/Oberon | `niklaus-wirth` |
+| 1983 | Ken Thompson | Unix/C | `ken-thompson` |
+| 1983 | Dennis Ritchie | C语言/Unix | `dennis-ritchie` |
+| 1982 | Stephen A. Cook | NP完全理论 | `stephen-a-cook` |
+| 1981 | Edgar F. Codd | 关系数据库 | `edgar-f-codd` |
+| 1980 | C.A.R. Hoare | Hoare逻辑/快速排序 | `car-hoare` |
+| 1979 | Kenneth E. Iverson | APL语言 | `kenneth-e-iverson` |
+| 1978 | Robert W. Floyd | 程序验证/算法 | `robert-w-floyd` |
+| 1977 | John Backus | Fortran/FP语言 | `john-backus` |
+| 1976 | Michael O. Rabin | 自动机/算法 | `michael-o-rabin` |
+| 1976 | Dana S. Scott | 语义学 | `dana-s-scott` |
+| 1975 | Allen Newell | AI/认知科学 | `allen-newell` |
+| 1975 | Herbert A. Simon | 人工智能 | `herbert-a-simon` |
+| 1974 | Donald E. Knuth | 算法/TAOCP | `donald-e-knuth` |
+| 1973 | Charles W. Bachman | 数据库/IDS | `charles-w-bachman` |
+| 1972 | Edsger W. Dijkstra | 结构化程序设计 | `edsger-w-dijkstra` |
+| 1971 | John McCarthy | LISP/AI | `john-mccarthy` |
+| 1970 | James H. Wilkinson | 数值分析 | `james-h-wilkinson` |
+| 1969 | Marvin Minsky | 人工智能 | `marvin-minsky` |
+| 1968 | Richard W. Hamming | 纠错码 | `richard-w-hamming` |
+| 1967 | Maurice V. Wilkes | EDSAC/微程序 | `maurice-v-wilkes` |
+| 1966 | Alan J. Perlis | 编译器/ALGOL | `alan-j-perlis` |
 
 ### 按思维类型（快速匹配）
 
@@ -214,7 +214,7 @@ description: |
 每位得主目录包含完整的研究基础设施：
 
 ```
-turing-minds/[laureate-name]/
+[laureate-name]/
 ├── SKILL.md                    # 核心认知框架（思维操作系统）
 ├── research/
 │   ├── 01-biography.md        # 生平与学术轨迹
@@ -261,7 +261,7 @@ turing-minds/[laureate-name]/
 1. **Phase 0A**：确认得主身份和成就
 2. **Phase 1**：使用ACM官方和个人来源优先
 3. **目录命名**：`[first-name]-[last-name]`（全小写，连字符分隔）
-4. **目录位置**：`turing-minds/[laureate-name]/`
+4. **目录位置**：`[laureate-name]/`
 5. **完成后**：更新本SKILL.md的得主索引
 
 ### 特殊处理
