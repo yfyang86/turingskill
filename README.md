@@ -27,6 +27,11 @@ Turing Minds is a structured knowledge base that captures the **thinking pattern
 
 ## 📊 What's Inside
 
+### English version & Chinese Version
+
+- `lang=en`: Project [root](./) excluding the `turingmind-cn` folder
+- `lang=zh`: [turingmind-cn](./turingmind-cn)
+
 ### By the Numbers
 
 - **81** Turing Award laureates (1966-2025)
@@ -361,5 +366,3 @@ Thanks the initial idea from [nobel-medicine-minds](https://github.com/ChrisLou-
 Author: Yifan Yang<yfyang.86 hotmail>
 
 License: Apache-2.0
-
-

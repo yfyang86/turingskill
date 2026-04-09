@@ -118,7 +118,7 @@ Lamport communicates with dry wit and uncompromising precision. His writing is f
 **Collaborators:** SRI International (security), DEC SRC, Microsoft Research, TLA+ user community, Paxos implementers, Butler Lampson, Nancy Lynch
 
 **Key Papers:**
-- "Time, Clocks, and the Ordering of Events" (1978)
+- "Time, Clocks, and the Ordering of Events in a Distributed System" (1978)
 - "The Byzantine Generals Problem" (1982)
 - "The Part-Time Parliament" (1989, 2001)
 - "Paxos Made Simple" (2001)

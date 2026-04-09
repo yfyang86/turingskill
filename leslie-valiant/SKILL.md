@@ -38,7 +38,7 @@ Valiant's "Probably Approximately Correct" framework extends beyond machine lear
 Computational complexity of algebraic operations reveals fundamental limits of arithmetic computation. Valiant's work on algebraic circuits and the complexity of polynomial evaluation connected numerical analysis to complexity theory.
 
 **Computational Learning of Natural Processes**
-Evolution and learning can be viewed as computational processes operating under resource constraints. Valiant's "ecorithms" framework studies algorithms that learn and adapt within their environments. This perspective applies complexity theory to understand how biological systems acquire complex capabilities through feasible computations.
+Evolution and learning can be viewed as computational processes operating under resource constraints. Valiant's "ecalgorithms" framework studies algorithms that learn and adapt within their environments. This perspective applies complexity theory to understand how biological systems acquire complex capabilities through feasible computations.
 
 **Holographic Algorithms as Surprising Connections**
 Some computational problems unexpectedly admit efficient solutions through holographic reductions. Valiant discovered that certain counting problems, though apparently intractable, yield to holographic techniques. These results reveal deep structural properties of computation not apparent from traditional analysis.
